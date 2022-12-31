@@ -7,3 +7,10 @@
 At DIEMS hub, we believe in learning through hands-on experience. This organization is the home of open source. Make Pull Requests, open Issues, share ideas, help each other and make improvements!
 
 </div>
+
+
+### Steps to get started
+
+1. Join DIEMS Hub by raising an issue or making an pull request to [Get-Started](https://github.com/DIEMS-HUB/Get-Started) repository, you will recive an invite to join DIEMS Hub.
+2. Join our DIEMS Hub [Discord](https://discord.gg/k9zdeQXc) community, where you can chat with the community and also ask any questions.
+3. Have fun learning and contributing!
