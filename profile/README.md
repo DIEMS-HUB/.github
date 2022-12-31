@@ -5,6 +5,16 @@
 ## Welcome to DIEMS community!
 
 At DIEMS hub, we believe in learning through hands-on experience. This organization is the home of open source. Make Pull Requests, open Issues, share ideas, help each other and make improvements!
+    
+    
+   
+
+ <a href="https://discord.gg/k9zdeQXc">
+    <img width="30px" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" />
+  </a>&ensp;
+    <a href="https://t.me/+J001tA2sI4BiNmU1">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" />
+  </a> 
 
 </div>
 
